@@ -1,0 +1,47 @@
+/* Arquivo de estilização */
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #000;
+}
+
+header{
+    background: #222;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.header-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.foto-perfil{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 3px solid white
+}
+
+section{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+    background-color: #222;
+    color: white;
+
+}
+

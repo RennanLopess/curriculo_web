@@ -43,7 +43,7 @@ Foram feitas as seguintes alterações visuais:
 
 ### Autor
 
-[<img src="foto.jpeg" width=120><br><sub>Gabriel Pinto Gonzales</sub>](https://www.linkedin.com/in/gabrielpgonzales/)
+[<img src="foto.jpg" width=120><br><sub>Rennan Rentz Lopes da Silva</sub>](https://www.linkedin.com/in/rennan-rentz-lopes-da-silva-954353319/)
 
 
 
